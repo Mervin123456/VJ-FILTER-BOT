@@ -6,7 +6,7 @@ services:
     buildCommand: pip install -r requirements.txt
     startCommand: python3 bot.py
     repo: https://github.com/Mervin123456/VJ-FILTER-BOT.git      
-    branch: master
+    branch: Tech_VJ
     envVars:
       - key: BOT_TOKEN 
         sync: false
